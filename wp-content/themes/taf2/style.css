@@ -771,8 +771,9 @@ footer p {
 }
 
 .main-content h2 {
-	font-size: 1.5em;
+	font-size: 1.4em;
 	color: #2587B3;
+	padding: 1em 0 0.5em 0;
 }
 
 .main-content h3 {
@@ -791,6 +792,14 @@ footer p {
 
 .main-content .text-link:hover {
 	color: #E67C01;
+}
+
+.main-content .show-info img {
+	height: 200px;
+}
+
+.main-content .char-desc {
+	margin: 1em 0 0.5em 0;
 }
 
 .main-content .wide {
